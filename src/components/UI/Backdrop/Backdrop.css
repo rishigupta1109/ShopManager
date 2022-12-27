@@ -1,0 +1,14 @@
+#backdropbox{
+    height:700px;
+    width:1360px;
+    background-color: rgba(0, 0, 0, 0.281);
+    position: absolute;
+    top:0px;
+    left: 0px;
+}
+#billbox{
+    position: absolute;
+    
+    top: 200px;
+    left: 400px;
+}

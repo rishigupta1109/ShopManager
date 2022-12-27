@@ -1,0 +1,26 @@
+#Bill{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding:20px;
+    border-radius: 10px;
+    background-color: lightblue;
+}
+#Billinfo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+#Customerinfo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+th,tr,td,table{
+    border:1px solid black;
+    border-collapse: collapse;
+}

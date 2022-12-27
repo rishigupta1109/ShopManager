@@ -1,0 +1,62 @@
+#AddItemContainer{
+    padding:20px;
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+.inputcontainer h4{
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.inputcontainer input{
+    border-radius: 20px;
+    height:25px;
+    width:200px;
+}
+form button{
+    margin-top: 20px;
+    height:80px;
+    width:200px;
+    border-radius: 30px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-family: cursive;
+    font-size: larger;
+}
+#backicon{
+    position: absolute;
+top:130px;
+left:100px;
+    height:40px;
+    width:40px;
+    border-radius: 100%;
+    border:1px solid black;
+    padding:5px;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+#backicon:hover{
+    cursor: pointer;
+}
+#bih1{
+    display: flex;
+    flex-direction: row;
+}
+.inputcontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.billing{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   
+}
+#item h5{
+    padding:5px;
+}
